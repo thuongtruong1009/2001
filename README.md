@@ -1,0 +1,1 @@
+**2001** - Make your GitHub history back to 2001. Script by **[antfu-1990](https://github.com/antfu/1990)** <br/> Script <br/>* Create ACCESS_TOKEN key <br/>* Create repository name 2001<br/>* Run in bash<br/>
