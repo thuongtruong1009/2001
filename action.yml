@@ -1,0 +1,15 @@
+name: 2001
+
+jobs:
+  run_tests:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run script file
+      run: |
+         chmod +x ./index.sh
+         ./index.sh
+      shell: bash
+
+      - run: |
+          chmod +x sh -c "$(curl -fsSL ${GITHUB_WORKSPACE}/index.sh)"
