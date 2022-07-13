@@ -1,5 +1,5 @@
 ## **2001**
-- Make your GitHub history back to 1990. Script by **[antfu-1990](https://github.com/antfu/1990)**
+- Make your GitHub history back to 2001
 
 ## Script
 * Create ACCESS_TOKEN key
